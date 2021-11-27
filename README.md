@@ -41,7 +41,6 @@ az összes alkönyvtárát, teljes mélységben).
 
 Tipp: ahhoz, hogy ezeket meg lehessen oldani, az értesítés során át kell adni a megváltozott
 könyvtár objektumot a feliratkozónak.
-
 - Tesztadatok segítségével illusztrálja megoldásának működését. Megoldásában NEM szükséges
 valódi fájlrendszerbeli könyvtárakkal és fájlokkal dolgoznia: egyszerűen olyan tesztadatokkal
 inicializálja az adatstruktúráit, melyekkel a működés jól demonstrálható
